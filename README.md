@@ -1,3 +1,5 @@
+Co-authors: Eduardo Beltrao and Jack Moloney
+
 Before running either of the R scripts, set the working directory to the "Macroeconomics Project Data" folder, which contains all requisite datasets. The results from produced by both scripts are then stored in this same folder. 
 
 ***Macroeconomics\_Group\_Project.R:***
