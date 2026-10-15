@@ -25,4 +25,5 @@ This script runs the estimation of the VAR model, plots respective IRFs and the 
 **Abstract:**
 This study aims to analyze the macroeconomic effects of the European Central Bank’s (ECB) quantitative easing (QE) measures taken through the Public Sector Purchase Programme (PSPP). We do so by estimating a VAR(1) model including Euro area PSPP purchases, ECB deposit facility rates, industrial production indices, unemployment, and inflation as endogenous regressors. The impulse response functions show statistically insignificant responses of the endogenous variables to a one-standard-deviation PSPP shock across all horizons. Subsequently, we isolate the clean structural QE shocks from the PSPP purchases through Cholesky decomposition, and study their correlation with key financial variables selected from the ECB’s Altavilla dataset.
 
+Grade Received: 6/6
 
