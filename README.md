@@ -14,7 +14,7 @@ This script runs the estimation of the VAR model, plots respective IRFs and the 
 
 
 
-This script runs the estimation of the VAR model, plots respective IRFs and the isolated resultant QE Shocks, and the correlation graph with financial variables for the first-levels specification. All plots created after running this code are also saved in the "Macroeconomics Project Data" folder. All plots with names including "\_levels" come from running this R script and come from the levels specification.
+This script runs the estimation of the VAR model, plots respective IRFs and the isolated resultant QE Shocks, and the correlation graph with financial variables for the levels specification. All plots created after running this code are also saved in the "Macroeconomics Project Data" folder. All plots with names including "\_levels" come from running this R script and come from the levels specification.
 
 
 
